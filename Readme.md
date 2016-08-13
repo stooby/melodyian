@@ -2,6 +2,11 @@
 
 ## License
 ### [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+---
+
+## [Melodyian MIDI Robot Instructable] (http://www.instructables.com/id/Musical-Melodyian-MIDI-Robot/)
+Complete Instructable on how to build and assemble this wireless MIDI controllable robot.
+
 
 ## Arduino Board
 Pro Mini 3.3 =- 328
